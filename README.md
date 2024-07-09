@@ -3,7 +3,9 @@ Simple Web App deployed using Streamlit to display **Opening** and **Closing** s
 
 ### Steps to run
 
-You need to have yfinance and streamlit libraries installed apart from Python3
+Apart from having Python3, you need to have streamlit up and running on your machine. This can be done by running the following commands on your Terminal / Shell.
+
 ```bash
 pip install streamlit
+streamlit hellp
  ```
