@@ -1,2 +1,2 @@
 # AppleStockPrice-app
-Simple Web App for Opening and Closing Stock Prices of Apple.
+Simple Web App deployed using Streamlit to display **Opening** and **Closing** stock prices of Apple from May 31st 2010 to May 31st 2020.
